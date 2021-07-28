@@ -1,5 +1,3 @@
-package tallersemana1ciclo2;
-
 import java.util.Scanner;
 
 public class TallerSemana1Ciclo2 {
